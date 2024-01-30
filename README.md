@@ -61,3 +61,15 @@ instead of hard-coding them.
 
 Check out the React docs on
 [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html) for a hint!.
+
+
+//Code Notes
+App
+  SideMenu
+    Logo
+    Menu Links
+    Search
+Main Content
+  Top Menu
+  Genre Picker
+  Album Card(Album List)

@@ -1,7 +1,14 @@
 import React from "react";
+import TopMenu from "./TopMenu";
+import GenrePicker from "./GenrePicker";
+import AlbumCard from "./AlbumCard";
 
 function MainContent() {
-  return <main>{/* What components go here? */}</main>;
+  return <main>
+    <TopMenu />,
+    <GenrePicker />,
+    <AlbumCard />
+  </main>;
 }
 
 export default MainContent;
